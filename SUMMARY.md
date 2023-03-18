@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Seungdeok | 데이터와 함께 성장하는 소프트웨어 엔지니어](README.md)
+* [Seungdeok | Why로 시작하는 소프트웨어 엔지니어](README.md)
 
 ## 🖥 Skill
 
