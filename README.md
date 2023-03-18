@@ -18,4 +18,4 @@ linkedIn. [https://www.linkedin.com/in/%EC%8A%B9%EB%8D%95-%EC%A0%95-a23622267/](
 
 blog. [https://docs.seungdeok.com](https://docs.seungdeok.com)
 
-resume. [https://seungdeok.githug.io](https://seungdeok.githug.io)
+resume. [https://seungdeok.githug.io](https://seungdeok.github.io/)
