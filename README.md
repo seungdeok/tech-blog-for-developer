@@ -10,7 +10,7 @@ description: 3년차 Why로 시작하는 소프트웨어 엔지니어 정승덕�
 
 Email. jeong9132@gmail.com
 
-### Channel
+### Channels
 
 github. [https://github.com/seungdeok](https://github.com/seungdeok)
 
