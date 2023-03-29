@@ -9,6 +9,12 @@
 
 
 
+### 동작방식
+
+<figure><img src="../../../.gitbook/assets/template_engine.png" alt=""><figcaption></figcaption></figure>
+
+
+
 ### 출처
 
 * [https://docs.spring.io/spring-boot/docs/2.3.1.RELEASE/reference/html/spring-boot-features.html#boot-features-spring-mvc-template-engines](https://docs.spring.io/spring-boot/docs/2.3.1.RELEASE/reference/html/spring-boot-features.html#boot-features-spring-mvc-template-engines)
