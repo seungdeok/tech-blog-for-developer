@@ -28,6 +28,6 @@ description: 모바일 웹 카메라 기능을 사용하기 위해 사용하고�
 
 ####
 
-#### \[출처]
+### 출처
 
-[https://developer.mozilla.org/en-US/docs/Web/API/Media\_Capture\_and\_Streams\_API](https://developer.mozilla.org/en-US/docs/Web/API/Media\_Capture\_and\_Streams\_API)
+* [https://developer.mozilla.org/en-US/docs/Web/API/Media\_Capture\_and\_Streams\_API](https://developer.mozilla.org/en-US/docs/Web/API/Media\_Capture\_and\_Streams\_API)

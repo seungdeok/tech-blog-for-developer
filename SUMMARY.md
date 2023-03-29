@@ -15,7 +15,7 @@
     * [🖥 General](skill/front-end/reactjs/general.md)
 * [BACK END](skill/back-end/README.md)
   * [NODEJS](skill/back-end/nodejs.md)
-  * [SPRING](skill/back-end/spring/README.md)
+  * [SPRING](skill/back-end/spring.md)
     * [🖥 General](skill/back-end/spring/general.md)
 * [DEVOPS](skill/devops/README.md)
   * [CIRCLE CI](skill/devops/circle-ci.md)
