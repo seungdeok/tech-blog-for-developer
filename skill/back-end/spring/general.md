@@ -17,7 +17,7 @@ description: https://start.spring.io
   * spring-boot-starter-tomcat: tomcat(웹서버)
   * spring-webmvc: spring 웹 mvc\
 
-* (공통) spring-boo-starter: spring-boot, spring-core, logging
+* (공통) spring-boot-starter: spring-boot, spring-core, logging
   * spring-boot
     * spring-core
   * spring-boot-starter-logging
