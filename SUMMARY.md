@@ -12,6 +12,7 @@
   * [🖥 General](skill/spring/general.md)
   * [💡 Template Engine](skill/spring/template-engine.md)
 * [DEVOPS](skill/devops/README.md)
+  * [💬 Git](skill/devops/git.md)
   * [🗓 Challenge](skill/devops/challenge/README.md)
     * [Github Action에서 Circle CI로 마이그레이션](skill/devops/challenge/github-action-circle-ci.md)
 
