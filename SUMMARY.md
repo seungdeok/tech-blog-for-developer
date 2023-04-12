@@ -4,13 +4,14 @@
 
 ## 🖥 Skill
 
+* [✅ Today I Learned](skill/today-i-learned/README.md)
+  * [SPRING](skill/today-i-learned/spring/README.md)
+    * [🖥 General](skill/today-i-learned/spring/general.md)
+    * [💡 Template Engine](skill/today-i-learned/spring/template-engine.md)
 * [JAVASCRIPT](skill/javascript/README.md)
   * [📷 WebCam](skill/javascript/webcam.md)
 * [REACTJS](skill/reactjs/README.md)
   * [🖥 General](skill/reactjs/general.md)
-* [SPRING](skill/spring/README.md)
-  * [🖥 General](skill/spring/general.md)
-  * [💡 Template Engine](skill/spring/template-engine.md)
 * [DEVOPS](skill/devops/README.md)
   * [💬 Git](skill/devops/git.md)
   * [🗓 Challenge](skill/devops/challenge/README.md)
