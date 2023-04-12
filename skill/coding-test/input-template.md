@@ -1,4 +1,4 @@
-# 🔍 Input template
+# 🔍 Input Template
 
 ### javascript using "fs" module
 

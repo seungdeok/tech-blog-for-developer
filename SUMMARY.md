@@ -5,19 +5,19 @@
 ## 🖥 Skill
 
 * [✅ Today I Learned](skill/today-i-learned/README.md)
-  * [SPRING](skill/today-i-learned/spring/README.md)
-    * [🖥 General](skill/today-i-learned/spring/general.md)
-    * [💡 Template Engine](skill/today-i-learned/spring/template-engine.md)
-* [JAVASCRIPT](skill/javascript/README.md)
+  * [Spring Framework](skill/today-i-learned/spring-framework/README.md)
+    * [🖥 General](skill/today-i-learned/spring-framework/general.md)
+    * [💡 Template Engine](skill/today-i-learned/spring-framework/template-engine.md)
+* [Javascript](skill/javascript/README.md)
   * [📷 WebCam](skill/javascript/webcam.md)
-* [REACTJS](skill/reactjs/README.md)
+* [ReactJS](skill/reactjs/README.md)
   * [🖥 General](skill/reactjs/general.md)
-* [DEVOPS](skill/devops/README.md)
+* [Devops](skill/devops/README.md)
   * [💬 Git](skill/devops/git.md)
   * [🗓 Challenge](skill/devops/challenge/README.md)
     * [Github Action에서 Circle CI로 마이그레이션](skill/devops/challenge/github-action-circle-ci.md)
 * [Coding Test](skill/coding-test/README.md)
-  * [🔍 Input template](skill/coding-test/input-template.md)
+  * [🔍 Input Template](skill/coding-test/input-template.md)
 
 ## 🌳 Education
 
