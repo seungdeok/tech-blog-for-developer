@@ -16,6 +16,8 @@
   * [💬 Git](skill/devops/git.md)
   * [🗓 Challenge](skill/devops/challenge/README.md)
     * [Github Action에서 Circle CI로 마이그레이션](skill/devops/challenge/github-action-circle-ci.md)
+* [Coding Test](skill/coding-test/README.md)
+  * [🔍 Input template](skill/coding-test/input-template.md)
 
 ## 🌳 Education
 
