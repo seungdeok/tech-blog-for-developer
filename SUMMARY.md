@@ -4,7 +4,8 @@
 
 ## ✅ Today I Learned <a href="#til" id="til"></a>
 
-* [4 2023년 4월 TIL](til/2023-4-til.md)
+* [4 2023년 4월 TIL](til/2023-4-til/README.md)
+  * [4월12일 - TIL시작](til/2023-4-til/4-12-til.md)
 
 ## 🌳 skill
 
