@@ -1,5 +1,7 @@
 # Opensource
 
+### 필수 기여 순서
+
 1. Project의 Code of conduct를 확인
 
 <figure><img src="../../../.gitbook/assets/스크린샷 2023-04-13 오전 9.56.23.png" alt=""><figcaption></figcaption></figure>
@@ -11,3 +13,8 @@
    1. issue 번호 기반의 branch 이름
    2. 원소스에 PR
 
+
+
+### 출처
+
+* [https://www.youtube.com/watch?v=cuoNzXFLitc](https://www.youtube.com/watch?v=cuoNzXFLitc)
