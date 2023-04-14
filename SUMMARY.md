@@ -11,16 +11,16 @@
 
 ## 🌳 skill
 
-* [Javascript](skill/javascript/README.md)
-  * [📷 WebCam](skill/javascript/webcam.md)
 * [ReactJS](skill/reactjs/README.md)
   * [🖥 General](skill/reactjs/general.md)
+  * [🗓 Challenge](skill/reactjs/challenge/README.md)
+    * [📷 Web에 WebCam 적용 회고](skill/reactjs/challenge/web-webcam.md)
 * [Devops](skill/devops/README.md)
   * [💬 Git](skill/devops/git/README.md)
     * [Code Convention](skill/devops/git/code-convention.md)
     * [Opensource](skill/devops/git/opensource.md)
   * [🗓 Challenge](skill/devops/challenge/README.md)
-    * [Github Action에서 Circle CI로 마이그레이션](skill/devops/challenge/github-action-circle-ci.md)
+    * [Github Action에서 Circle CI로 마이그레이션 제안 회고](skill/devops/challenge/github-action-circle-ci.md)
 * [Spring Framework](skill/spring-framework/README.md)
   * [🖥 General](skill/spring-framework/general.md)
   * [💡 Template Engine](skill/spring-framework/template-engine.md)
