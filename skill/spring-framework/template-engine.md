@@ -11,7 +11,7 @@
 
 ### 동작방식
 
-<figure><img src="../../../.gitbook/assets/template_engine.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/template_engine.png" alt=""><figcaption></figcaption></figure>
 
 
 

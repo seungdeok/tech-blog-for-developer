@@ -2,7 +2,7 @@
 description: 모바일 웹 카메라 기능을 사용하기 위해 사용하고자합니다.
 ---
 
-# 📷 WebCam
+# 📷 Web에 WebCam 적용 회고
 
 ### 요약
 

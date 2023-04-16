@@ -2,7 +2,7 @@
 description: Circle CI를 사용하는 이유?
 ---
 
-# Github Action에서 Circle CI로 마이그레이션
+# Github Action에서 Circle CI로 마이그레이션 제안 회고
 
 ### 마이그레이션의 필요성
 

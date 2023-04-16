@@ -11,28 +11,25 @@
   * [4월 15일](til/2023-4-til/4-15.md)
   * [4월16일](til/2023-4-til/4-16.md)
 
-## 🌐 Framework
+## Framework
 
-* [ReactJS](framework/reactjs/README.md)
-  * [🖥 General](framework/reactjs/general.md)
-  * [🗓 Challenge](framework/reactjs/challenge/README.md)
-    * [📷 Web에 WebCam 적용 회고](framework/reactjs/challenge/web-webcam.md)
+* [ReactJS](skill/reactjs/README.md)
+  * [🖥 General](skill/reactjs/general.md)
+  * [🗓 Challenge](skill/reactjs/challenge/README.md)
+    * [📷 Web에 WebCam 적용 회고](skill/reactjs/challenge/web-webcam.md)
 * [NodeJS](framework/nodejs.md)
-* [Spring Framework](framework/spring-framework/README.md)
-  * [🖥 General](framework/spring-framework/general.md)
-  * [💡 Template Engine](framework/spring-framework/template-engine.md)
+* [Spring Framework](skill/spring-framework/README.md)
+  * [🖥 General](skill/spring-framework/general.md)
+  * [💡 Template Engine](skill/spring-framework/template-engine.md)
 
-## 👨💻 programming
-
-* [Coding Test](programming/coding-test/README.md)
-  * [🔍 Input Template](programming/coding-test/input-template.md)
+## programming
 
 ## devops
 
 * [🧪 CI\&CD](devops/ci-and-cd.md)
-* [💬 Git](devops/git/README.md)
-  * [Code Convention](devops/git/code-convention.md)
-  * [Opensource](devops/git/opensource.md)
+* [💬 Git](skill/devops/git/README.md)
+  * [Code Convention](skill/devops/git/code-convention.md)
+  * [Opensource](skill/devops/git/opensource.md)
 
 ## cloud sevice
 
@@ -42,11 +39,13 @@
 
 * [🦑 Squidmind](project/squidmind.md)
 * [📄 기술제안](project/tech-proposal/README.md)
-  * [Github Action에서 Circle CI로 마이그레이션 제안 회고](project/tech-proposal/github-action-circle-ci.md)
+  * [Github Action에서 Circle CI로 마이그레이션 제안 회고](skill/devops/challenge/github-action-circle-ci.md)
 
 ## Knowledge
 
 * [💊 Design Pattern](knowledge/design-pattern.md)
+* [⁉ algorithm](knowledge/algorithm/README.md)
+  * [🔍 Input Template](knowledge/algorithm/input-template.md)
 
 ## data
 
