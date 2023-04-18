@@ -20,9 +20,6 @@
   * [🗓 Challenge](skill/reactjs/challenge/README.md)
     * [📷 Web에 WebCam 적용 회고](skill/reactjs/challenge/web-webcam.md)
 * [NodeJS](framework/nodejs.md)
-* [Spring Framework](skill/spring-framework/README.md)
-  * [🖥 General](skill/spring-framework/general.md)
-  * [💡 Template Engine](skill/spring-framework/template-engine.md)
 
 ## programming
 
