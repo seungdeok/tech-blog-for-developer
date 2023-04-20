@@ -5,7 +5,7 @@
 ```javascript
 const fs = require("fs");
 const input = fs
-	.readFileSync("/dev/stdin")
+	.readFileSync("/dev/stdin") // .readFileSync(0, 'utf-8')
 	.toString()
 	.split("\n");
 ```
