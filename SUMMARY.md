@@ -18,16 +18,17 @@
 
 ## Framework
 
-* [ReactJS](skill/reactjs/README.md)
+* [🌏 ReactJS](skill/reactjs/README.md)
   * [🖥 General](skill/reactjs/general.md)
   * [🗓 Challenge](skill/reactjs/challenge/README.md)
     * [📷 Web에 WebCam 적용 회고](skill/reactjs/challenge/web-webcam.md)
-* [NodeJS](framework/nodejs.md)
+* [🌱 NodeJS](framework/nodejs.md)
+* [📱 Flutter](framework/flutter.md)
 
 ## programming
 
-* [HTML](programming/html.md)
-* [Javascript](programming/javascript.md)
+* [📄 HTML](programming/html.md)
+* [⚒ Javascript](programming/javascript.md)
 
 ## devops
 
@@ -49,7 +50,7 @@
 ## Knowledge
 
 * [💊 Design Pattern](knowledge/design-pattern.md)
-* [⁉ algorithm](knowledge/algorithm/README.md)
+* [⁉ Algorithm](knowledge/algorithm/README.md)
   * [🔍 Input Template](knowledge/algorithm/input-template.md)
 
 ## data
