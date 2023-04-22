@@ -72,3 +72,4 @@
 ## 🌳 Education <a href="#edu" id="edu"></a>
 
 * [🦁 Likelion](edu/likelion.md)
+* [👫 SAGKorea 대구 경북 개발자 커뮤니티](edu/sagkorea.md)
