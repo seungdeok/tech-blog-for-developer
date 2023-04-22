@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Seungdeok | Why로 시작하는 소프트웨어 엔지니어](README.md)
+* [🔥 Seungdeok Log.](README.md)
 
 ## ✅ Today I Learned <a href="#til" id="til"></a>
 

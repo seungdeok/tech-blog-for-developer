@@ -1,21 +1,31 @@
----
-description: 3년차 Why로 시작하는 소프트웨어 엔지니어 정승덕입니다.
----
+# 🔥 Seungdeok Log.
 
-# Seungdeok | Why로 시작하는 소프트웨어 엔지니어
+## Hello I\`m Seungdeok.
 
-<figure><img src=".gitbook/assets/KakaoTalk_Photo_2022-04-15-13-48-22.jpeg" alt=""><figcaption></figcaption></figure>
+I'm a software engineer with Starting with "Why".&#x20;
 
-### Contact
+I have mainly worked as a Tech Lead at Startups 🚀
+
+I\`m a frontend engineer with an focusing on `Javascript`, `React`
+
+
+
+## Worked Experience
+
+[**디에이티**](https://d-eighty.com) - Tech Lead | 2022.01- 2023.03
+
+[**비바세컨드**](https://vivasecond.com) - Web Frontend | 2021.03-2021.12
+
+
+
+## Contact.
 
 Email. jeong9132@gmail.com
 
-### Channels
+###
 
-Github. [https://github.com/seungdeok](https://github.com/seungdeok)
+## Channels.
 
-LinkedIn. [https://www.linkedin.com/in/%EC%8A%B9%EB%8D%95-%EC%A0%95-a23622267/](https://www.linkedin.com/in/%EC%8A%B9%EB%8D%95-%EC%A0%95-a23622267/)
+Github. [Link](https://github.com/seungdeok)
 
-Blog. [https://docs.seungdeok.com](https://docs.seungdeok.com)
-
-Resume. [https://seungdeok.githug.io](https://seungdeok.github.io/)
+Linkedin. [Link](https://www.linkedin.com/in/seungdeokjeong/)
