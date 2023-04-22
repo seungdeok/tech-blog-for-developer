@@ -10,11 +10,13 @@ I\`m a frontend engineer with an focusing on `Javascript`, `React`
 
 
 
-## Worked Experience
+## Work Experience.
 
 [**디에이티**](https://d-eighty.com) - Tech Lead | 2022.01- 2023.03
 
 [**비바세컨드**](https://vivasecond.com) - Web Frontend | 2021.03-2021.12
+
+Freelancer - Web/App Frontend | 2019 - 2020
 
 
 
