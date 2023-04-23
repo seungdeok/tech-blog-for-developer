@@ -45,7 +45,8 @@
 
 ## project
 
-* [🦑 Squidmind](project/squidmind.md)
+* [🏋 원티드 프리온보딩인턴십](project/undefined/README.md)
+  * [\[회고\] 사전과제](project/undefined/undefined.md)
 * [📄 기술제안](project/tech-proposal/README.md)
   * [\[회고\] Github Action에서 Circle CI로 마이그레이션 제안](skill/devops/challenge/github-action-circle-ci.md)
 
