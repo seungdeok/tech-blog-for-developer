@@ -47,7 +47,7 @@
 
 * [🦑 Squidmind](project/squidmind.md)
 * [📄 기술제안](project/tech-proposal/README.md)
-  * [Github Action에서 Circle CI로 마이그레이션 제안 회고](skill/devops/challenge/github-action-circle-ci.md)
+  * [\[회고\] Github Action에서 Circle CI로 마이그레이션 제안](skill/devops/challenge/github-action-circle-ci.md)
 
 ## Knowledge
 
