@@ -11,6 +11,12 @@ coverY: -159
 
 
 
+## 프로젝트 링크.
+
+[https://github.com/seungdeok/wanted-pre-onboarding-frontend](https://github.com/seungdeok/wanted-pre-onboarding-frontend)
+
+
+
 ## 프로젝트를 시작하며.
 
 새로운 기술을 배우게 될 때 가장 쉽게 접할 수 있는 토이 프로젝트가 Todo App인 것 같다.
@@ -27,6 +33,7 @@ coverY: -159
 
 * React 내장 함수 중 memo, useCallback을 사용하여 렌더링 최적화를 효율적으로 할 수 있었다.
 * 클라이언트단 API Helper를 만들어 효율적으로 관리/사용할 수 있었다.
+* 프로젝트의 README.md를 템플릿으로 다른 프로젝트에서도 유연하게 사용할 수 있을 것 같다.
 
 ### Problem.
 
