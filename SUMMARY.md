@@ -69,7 +69,8 @@
 
 ## testing
 
-* [🧪 Testing](testing/testing.md)
+* [🧪 Testing](testing/testing/README.md)
+  * [Apache JMeter](testing/testing/apache-jmeter.md)
 * [⁉ Error](testing/error.md)
 
 ## 🌳 Education <a href="#edu" id="edu"></a>
