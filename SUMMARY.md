@@ -26,7 +26,8 @@
 
 ## Framework
 
-* [🌏 ReactJS](framework/reactjs.md)
+* [🌏 ReactJS](framework/reactjs/README.md)
+  * [\[회고\] CRA 없이 React 개발환경 구축](framework/reactjs/cra-react.md)
 
 ## devops
 
@@ -37,8 +38,8 @@
 
 ## project
 
-* [🏋 원티드 프리온보딩인턴십](project/undefined/README.md)
-  * [\[회고\] 사전과제](project/undefined/undefined.md)
+* [🏋 원티드 프리온보딩인턴십](project/wanted-internship/README.md)
+  * [\[회고\] 사전과제](project/wanted-internship/section-task.md)
 * [📄 기술제안](project/tech-proposal/README.md)
   * [\[회고\] Github Action에서 Circle CI로 마이그레이션 제안](skill/devops/challenge/github-action-circle-ci.md)
 
@@ -47,17 +48,12 @@
 * [⁉ Algorithm](knowledge/algorithm/README.md)
   * [🔍 Input Template](knowledge/algorithm/input-template.md)
 
-## dev tool
-
-* [⚒ Tool](dev-tool/tool.md)
-* [📃 IDE](dev-tool/ide.md)
-
 ## testing
 
 * [🧪 Testing](testing/testing/README.md)
   * [Apache JMeter](testing/testing/apache-jmeter.md)
-* [⁉ Error](testing/error/README.md)
-  * [📷 \[JS\] WebCam 카메라 좌우반전](testing/error/js-webcam.md)
+* [⁉ Error](testing/error.md)
+  * [📷 \[JS\] WebCam 카메라 좌우반전](skill/reactjs/challenge/web-webcam.md)
 
 ## 🌳 Education <a href="#edu" id="edu"></a>
 
