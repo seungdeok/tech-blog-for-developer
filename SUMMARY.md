@@ -26,8 +26,7 @@
 
 ## Framework
 
-* [🌏 ReactJS](skill/reactjs/README.md)
-  * [📷 Web에 WebCam 적용 회고](framework/reactjs/web-webcam.md)
+* [🌏 ReactJS](framework/reactjs.md)
 
 ## devops
 
@@ -57,7 +56,8 @@
 
 * [🧪 Testing](testing/testing/README.md)
   * [Apache JMeter](testing/testing/apache-jmeter.md)
-* [⁉ Error](testing/error.md)
+* [⁉ Error](testing/error/README.md)
+  * [📷 \[JS\] WebCam 카메라 좌우반전](testing/error/js-webcam.md)
 
 ## 🌳 Education <a href="#edu" id="edu"></a>
 
