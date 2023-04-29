@@ -27,14 +27,15 @@
 ## Framework
 
 * [🌏 ReactJS](framework/reactjs/README.md)
-  * [\[회고\] CRA 없이 React 개발환경 구축](framework/reactjs/cra-react.md)
+  * [\[회고\] CRA 없이 React 개발환경 구축](framework/reactjs/react-without-cra.md)
 
 ## devops
 
 * [🧪 CI\&CD](devops/ci-and-cd.md)
 * [💬 Git](skill/devops/git/README.md)
   * [Code Convention](skill/devops/git/code-convention.md)
-  * [Opensource](skill/devops/git/opensource.md)
+  * [Opensource](devops/git/opensource/README.md)
+    * [\[회고\] Opensource 첫 번째 기여](devops/git/opensource/first-commit.md)
 
 ## project
 
