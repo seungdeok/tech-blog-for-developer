@@ -20,10 +20,9 @@
 ## devops
 
 * [🧪 CI\&CD](devops/ci-and-cd.md)
-* [💬 Git](skill/devops/git/README.md)
-  * [Code Convention](skill/devops/git/code-convention.md)
-  * [Opensource](devops/git/opensource/README.md)
-    * [\[회고\] Opensource 첫 번째 기여](devops/git/opensource/first-commit.md)
+* [💬 Code Convention](devops/code-convention/README.md)
+  * [Git Convention](devops/code-convention/git-convention.md)
+  * [Editorconfig 도입](devops/code-convention/editorconfig.md)
 
 ## project
 
@@ -31,6 +30,8 @@
   * [\[회고\] 사전과제](project/wanted-internship/section-task.md)
 * [📄 기술제안](project/tech-proposal/README.md)
   * [\[회고\] Github Action에서 Circle CI로 마이그레이션 제안](skill/devops/challenge/github-action-circle-ci.md)
+* [🌐 오픈소스](project/opensource/README.md)
+  * [\[회고\] Opensource 첫 번째 기여](project/opensource/first-commit.md)
 
 ## Knowledge
 
