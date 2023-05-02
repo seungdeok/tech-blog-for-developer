@@ -7,6 +7,12 @@
 
 
 
+## 오픈소스 레시피
+
+* [github issue & pull request 템플릿 제작](github-issue-and-pull-request.md)
+
+
+
 ## ✅ 필수 기여 순서
 
 * [x] Project의 Code of conduct를 확인

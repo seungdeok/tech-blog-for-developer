@@ -33,6 +33,7 @@
 * [📄 기술제안](project/tech-proposal/README.md)
   * [\[회고\] Github Action에서 Circle CI로 마이그레이션 제안](skill/devops/challenge/github-action-circle-ci.md)
 * [🌐 오픈소스](project/opensource/README.md)
+  * [github issue & pull request 템플릿 제작](project/opensource/github-issue-and-pull-request.md)
   * [\[회고\] Opensource 첫 번째 기여](project/opensource/first-commit.md)
 
 ## Knowledge
