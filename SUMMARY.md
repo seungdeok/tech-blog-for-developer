@@ -20,10 +20,11 @@
 
 ## devops
 
-* [🧪 CI\&CD](devops/ci-and-cd.md)
+* [🧪 CI\&CD](devops/ci-and-cd/README.md)
+  * [Github Action - PR할 때마다 테스트 실행](devops/ci-and-cd/github-action-pr.md)
 * [💬 Code Convention](devops/code-convention/README.md)
   * [Git Convention](devops/code-convention/git-convention.md)
-  * [Editorconfig 도입](devops/code-convention/editorconfig.md)
+  * [Editorconfig](devops/code-convention/editorconfig.md)
 
 ## project
 
