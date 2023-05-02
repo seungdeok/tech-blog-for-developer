@@ -73,7 +73,7 @@ jobs:
 ![](../../.gitbook/assets/block-merge2.png)
 
 3. Add Branch Protecdted Rule 또는 Add Rule 클릭
-4. 원하는 브랜치명과 Require status checks to pass before merging 옵션을 선택
+4. 원하는 브랜치명과 Require status checks to pass before merging 옵션을 선택 & Search input에 해당 job을 검색하여 등록하면 최종 완료
 
 ![](../../.gitbook/assets/block-merge1.png)
 
