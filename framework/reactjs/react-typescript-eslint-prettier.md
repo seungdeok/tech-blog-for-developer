@@ -37,10 +37,10 @@ tsconfig.json의 `compilerOptions` > `baseUrl`, `paths` 속성 추가&#x20;
 {
   "compilerOptions": {
     ...
-    "baseUrl": ".",
+    "baseUrl": "./src",
     "paths": {
-       "@/*": ["src/*"] // src/App.tsx는 @/App.tsx로 경로 설정
-    }
+      "@/*": ["*"] // src/App.tsx는 @/App.tsx로 경로 설정
+    },
     ...
   }
 }
