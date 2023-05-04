@@ -8,6 +8,7 @@ CRA Typescript Template eslint, prettier 개발 환경 구축
 * [절대경로 alias 설정](react-typescript-eslint-prettier.md#alias)
 * [ESLint와 Prettier](react-typescript-eslint-prettier.md#eslint-prettier)
 * [ESLint airbnb style 적용](react-typescript-eslint-prettier.md#eslint-airbnb-style)
+* [Testing Library 설정](react-typescript-eslint-prettier.md#testing-library)
 
 
 
@@ -31,9 +32,10 @@ npx create-react-app {프로젝트이름} --template typescript
 
 ## 절대경로 alias 설정
 
-tsconfig.json의 `compilerOptions` > `baseUrl`, `paths` 속성 추가&#x20;
+1. tsconfig.json의 `compilerOptions` > `baseUrl`, `paths` 속성 추가&#x20;
 
 ```json
+// tsconfig.json
 {
   "compilerOptions": {
     ...
@@ -43,6 +45,35 @@ tsconfig.json의 `compilerOptions` > `baseUrl`, `paths` 속성 추가&#x20;
     },
     ...
   }
+}
+```
+
+
+
+2. webpack 구성 커스터마이징 위해 `craco` 설치, craco.config.js에 alias 추가
+
+{% hint style="info" %}
+웹팩 커스텀하지 않으면 IDE에서는 인식하지만 브라우저에서 인식못함.
+{% endhint %}
+
+```bash
+# npm
+npm install -D @craco/craco
+
+# yarn
+yarn add -D @craco/craco
+```
+
+
+
+```javascript
+// craco.config.js
+module.exports = {
+  webpack: {
+    alias: {
+      '@': path.resolve(__dirname, 'src/'),
+    },
+  },
 }
 ```
 
@@ -183,3 +214,23 @@ yarn add -D eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-a11y esl
 }
 ```
 
+
+
+## Testing Library 설정
+
+Jest 기준으로 절대 경로 alias 반영
+
+```javascript
+// craco.config.js
+module.exports = {
+    ...
+    jest: {
+        configure: {
+          moduleNameMapper: {
+            '^@/(.*)$': '<rootDir>/src/$1',
+          },
+        },
+    },
+    ...
+}
+```
