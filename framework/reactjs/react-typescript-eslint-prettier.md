@@ -105,7 +105,7 @@ yarn add -D eslint-config-prettier eslint-plugin-prettier
 
 ```bash
 # npm
-npm install -D eslint-config-prettier eslint-plugin-prettier
+npm install -D @typescript-eslint/parser @typescript-eslint/eslint-plugin
 
 # yarn
 yarn add -D @typescript-eslint/parser @typescript-eslint/eslint-plugin
