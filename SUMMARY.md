@@ -12,6 +12,7 @@
   * [4월 회고](til/2023-4-til/4.md)
 * [5 2023년 5월 TIL](til/2023-5-til/README.md)
   * [5월 1주차](til/2023-5-til/5-1.md)
+  * [5월 2주차](til/2023-5-til/5-2.md)
 
 ## Framework
 
