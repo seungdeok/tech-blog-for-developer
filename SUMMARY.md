@@ -42,7 +42,8 @@
 ## Knowledge
 
 * [⁉ Algorithm](knowledge/algorithm/README.md)
-  * [🔍 Input Template](knowledge/algorithm/input-template.md)
+  * [Input Template](knowledge/algorithm/input-template.md)
+  * [Sorting Template](knowledge/algorithm/sorting-template.md)
 
 ## testing
 
