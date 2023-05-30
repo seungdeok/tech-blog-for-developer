@@ -29,5 +29,3 @@ Email. jeong9132@gmail.com
 ## Channels.
 
 Github. [Link](https://github.com/seungdeok)
-
-Linkedin. [Link](https://www.linkedin.com/in/seungdeokjeong/)
