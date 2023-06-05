@@ -34,6 +34,7 @@
   * [Sorting Template](knowledge/algorithm/sorting-template.md)
   * [소수 찾기](knowledge/algorithm/undefined.md)
   * [순열 & 조합](knowledge/algorithm/and.md)
+  * [GCD & LCD](knowledge/algorithm/gcd-and-lcd.md)
 
 ## testing
 
