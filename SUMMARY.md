@@ -32,6 +32,7 @@
 * [⁉ Algorithm](knowledge/algorithm/README.md)
   * [Input Template](knowledge/algorithm/input-template.md)
   * [Sorting Template](knowledge/algorithm/sorting-template.md)
+  * [소수 찾기](knowledge/algorithm/undefined.md)
 
 ## testing
 
