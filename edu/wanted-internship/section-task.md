@@ -13,7 +13,7 @@ coverY: -159
 
 ## 프로젝트 링크.
 
-[https://github.com/seungdeok/wanted-pre-onboarding-frontend](https://github.com/seungdeok/wanted-pre-onboarding-frontend)
+{% embed url="https://github.com/seungdeok/wanted-pre-onboarding-frontend" %}
 
 
 

@@ -18,14 +18,11 @@
 
 ## project
 
-* [🏋 원티드 프리온보딩인턴십](project/wanted-internship/README.md)
-  * [\[회고\] 사전과제](project/wanted-internship/section-task.md)
-  * [\[회고\] 1차 기업과제](project/wanted-internship/section-task-1.md)
-* [📄 기술제안](project/tech-proposal/README.md)
-  * [\[회고\] Github Action에서 Circle CI로 마이그레이션 제안](skill/devops/challenge/github-action-circle-ci.md)
 * [🌐 오픈소스](project/opensource/README.md)
   * [github issue & pull request 템플릿 제작](project/opensource/github-issue-and-pull-request.md)
   * [\[회고\] Opensource 첫 번째 기여](project/opensource/first-commit.md)
+* [📄 기술제안](project/tech-proposal/README.md)
+  * [\[회고\] Github Action에서 Circle CI로 마이그레이션 제안](skill/devops/challenge/github-action-circle-ci.md)
 
 ## Knowledge
 
@@ -47,3 +44,7 @@
 
 * [🦁 Likelion](edu/likelion.md)
 * [👫 SAGKorea 대구 경북 개발자 커뮤니티](edu/sagkorea.md)
+* [🏋 원티드 프리온보딩인턴십](edu/wanted-internship/README.md)
+  * [\[회고\] 사전과제](edu/wanted-internship/section-task.md)
+  * [\[회고\] 1차 기업과제](edu/wanted-internship/section-task-1.md)
+  * [\[회고\] 3차 기업과제](edu/wanted-internship/section-task-2.md)

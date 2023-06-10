@@ -13,7 +13,7 @@ coverY: -159
 
 ## 프로젝트 링크.
 
-[https://github.com/seungdeok/wanted-pre-onboarding-frontend-week2](https://github.com/seungdeok/wanted-pre-onboarding-frontend-week2)
+{% embed url="https://github.com/wanted-intern-1/pre-onboarding-10th-2-1" %}
 
 
 
@@ -64,7 +64,7 @@ coverY: -159
 
 ## Next Step.
 
-한 번의 기업과제가 더 남았다.
+2번의 기업과제가 더 남았다.
 
 내부의 규칙을 지키는 선에서 눈에 보이는 리팩토링은 바로 진행하는 것이 좋을 것 같다.
 
