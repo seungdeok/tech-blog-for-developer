@@ -4,9 +4,10 @@
 
 ## Framework
 
-* [🌏 ReactJS](framework/reactjs/README.md)
-  * [React - Typescript eslint, prettier 개발 환경 구축](framework/reactjs/react-typescript-eslint-prettier.md)
-  * [\[회고\] CRA 없이 React 개발환경 구축](framework/reactjs/react-without-cra.md)
+* [🌏 React](framework/react/README.md)
+  * [React - Typescript eslint, prettier 개발 환경 구축](framework/react/react-typescript-eslint-prettier.md)
+  * [\[회고\] CRA 없이 React 개발환경 구축](framework/react/react-without-cra.md)
+  * [바닐라 JS 웹 컴포넌트 개발기](framework/react/build-js-web-component.md)
 
 ## devops
 
