@@ -1,23 +1,73 @@
-# 소수 찾기
+# Sorting Template
 
-### 에라토스테네스의 체
-
-> * O(nlogn)
-> * 검사한 원소의 배수를 선택지에서 소거해나가는 방식
-
-
+## Javascript sort method
 
 ```javascript
-function getPrimes(num) {
-    const primes = [false, false, ...Array(num - 1).fill(true)]; // 0, 1은 소수가 아니다.
-    for (let i = 2; i * i <= n; i++) {
-        if (primes[i]) {
-            for (let j = i * 2; j <= num; j += i) {
-                primes[j] = false;
+function sortCustom(arr) {
+    return arr.sort(conditionFunction());
+}
+```
+
+
+
+## Selection sort using Javascript
+
+```javascript
+function selectionSort(arr) {
+    let tempArr = arr.slice();
+    for (let i = 0; i < tempArr.length; i++) {
+        let minIndex = i;
+        for (let j = i; j < tempArr.length; j++) {
+            if (tempArr[minIndex] > tempArr[j]) {
+                minIndex = j;
             }
+        }
+    
+        if (minIndex !== i) {
+            let temp = tempArr[i];
+            tempArr[i] = tempArr[minIndex];
+            tempArr[minIndex] = temp;
         }
     }
     
-    return primes.filter(Boolean);
+    return tempArr;
+}
+```
+
+
+
+## Condition Function
+
+```javascript
+// 1. 비우면 유니코드 순서(문자는 대문자 < 소문자)로 오름차순
+// 2. 대소문자 구분 없이 진행 String.toUpperCase()
+function confitionFunc(a, b) {
+    if (숫자 오름차순) {
+       return a - b;
+    }
+    
+    if (숫자 내림차순) {
+       return b - a;
+    }
+    
+    if (문자 오름차순) {
+       if (a > b) {
+          return 1;
+       } else if (a < b) {
+          return -1;
+       } else {
+          return 0;
+       }
+    } 
+    
+    if (문자 내림차순) {
+       if (a > b) {
+          return -1;
+       } else if (a < b) {
+          return 1;
+       } else {
+          return 0;
+       }
+    } 
 }
 ```

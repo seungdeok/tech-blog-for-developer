@@ -4,10 +4,11 @@
 
 ## Framework
 
-* [🌏 React](framework/react/README.md)
-  * [React - Typescript eslint, prettier 개발 환경 구축](framework/react/react-typescript-eslint-prettier.md)
-  * [\[회고\] CRA 없이 React 개발환경 구축](framework/react/react-without-cra.md)
-  * [바닐라 JS 웹 컴포넌트 개발기](framework/react/build-js-web-component.md)
+* [🌏 Javascript](framework/javascript/README.md)
+  * [바닐라 JS 웹 컴포넌트 개발기](framework/javascript/build-js-web-component.md)
+  * [WebCam 카메라 좌우반전](framework/javascript/webcam.md)
+  * [React - Typescript eslint, prettier 개발 환경 구축](framework/javascript/react-typescript-eslint-prettier.md)
+  * [\[회고\] CRA 없이 React 개발환경 구축](framework/javascript/react-without-cra.md)
 
 ## devops
 
@@ -21,6 +22,7 @@
 
 * [🌐 오픈소스](project/opensource/README.md)
   * [github issue & pull request 템플릿 제작](project/opensource/github-issue-and-pull-request.md)
+  * [NPM 배포하기](project/opensource/npm.md)
   * [\[회고\] Opensource 첫 번째 기여](project/opensource/first-commit.md)
 * [📄 기술제안](project/tech-proposal/README.md)
   * [\[회고\] Github Action에서 Circle CI로 마이그레이션 제안](skill/devops/challenge/github-action-circle-ci.md)
@@ -28,9 +30,8 @@
 ## Knowledge
 
 * [⁉ Algorithm](knowledge/algorithm/README.md)
-  * [Input Template](knowledge/algorithm/input-template.md)
-  * [Sorting Template](knowledge/algorithm/sorting-template.md)
-  * [소수 찾기](knowledge/algorithm/undefined.md)
+  * [정렬](knowledge/algorithm/undefined.md)
+  * [소수 찾기](knowledge/algorithm/undefined-1.md)
   * [순열 & 조합](knowledge/algorithm/and.md)
   * [GCD & LCD](knowledge/algorithm/gcd-and-lcd.md)
 
@@ -38,8 +39,6 @@
 
 * [🧪 Testing](testing/testing/README.md)
   * [Apache JMeter](testing/testing/apache-jmeter.md)
-* [⁉ Error](testing/error.md)
-  * [📷 \[JS\] WebCam 카메라 좌우반전](skill/reactjs/challenge/web-webcam.md)
 
 ## 🌳 Education <a href="#edu" id="edu"></a>
 
