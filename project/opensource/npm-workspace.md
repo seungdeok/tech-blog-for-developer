@@ -68,13 +68,47 @@ package.json이 구성되고 workspace 파일을 구성한다.
 
 
 
-packages 디렉토리 안에 관리할 패키지를 넣어 Workspace를 관리하도록 한다.
+### Workspace 추가
+
+Workspace의 create 명령어로 packages 디렉터리에 추가할 수 있다.
+
+```bash
+$ npx learn create {패키지 이름}
+```
 
 
 
-{% hint style="info" %}
-Learn을 활용한 테스트, 빌드, 배포는 추가로 작성하겠다!(커밍순!)
-{% endhint %}
+Workspace의 의존성도 create로 추가할 수 있다.(scope 옵션으로 전역/특정 패키지 여부를 결정한다)
+
+> 의존성은 오픈 소스 라이브러리일 수도 있지만 내부 workspace일 수도 있다 말 그대로 의존성!
+
+```bash
+$ npx learn add {의존성 이름}
+$ npx learn add {의존성 이름} --scope={패키지 이름}
+$ npx learn add {의존성 이름} --ignore-workspace-root-check
+```
+
+* `ignore-workspace-root-check` 옵션은 루트에만 설치!
+
+
+
+### Learn Script
+
+Learn에서 지원하는 다양한 스크립트가 있지만 주로 쓰는 script만 우선 정리해본다!!
+
+다른 스크립트는 [공식 문서](https://lerna.js.org/docs/api-reference/commands)를 참조해보자!
+
+
+
+`learn run {npm script}`: 모든 workspace의 npm script 수행
+
+`learn exec -- {CLI 명령어}`: 모든 workspace의 CLI 명령어 수행
+
+`learn publish`: 모든 workspace의 변경된 패키지 publish
+
+`lerna version`: workspace 버전 자동 상승 + git tag + CHANGELOG
+
+
 
 
 
