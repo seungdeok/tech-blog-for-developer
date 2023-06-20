@@ -8,7 +8,7 @@
   * [바닐라 JS 웹 컴포넌트 개발기](framework/javascript/build-js-web-component.md)
   * [WebCam 카메라 좌우반전](framework/javascript/webcam.md)
   * [React - Typescript eslint, prettier 개발 환경 구축](framework/javascript/react-typescript-eslint-prettier.md)
-  * [\[회고\] CRA 없이 React 개발환경 구축](framework/javascript/react-without-cra.md)
+  * [CRA 없이 React 개발환경 구축](framework/javascript/react-without-cra.md)
 
 ## devops
 
@@ -21,11 +21,12 @@
 ## project
 
 * [🌐 오픈소스](project/opensource/README.md)
-  * [github issue & pull request 템플릿 제작](project/opensource/github-issue-and-pull-request.md)
+  * [NPM Workspace](project/opensource/npm-workspace.md)
   * [NPM 배포하기](project/opensource/npm.md)
-  * [\[회고\] Opensource 첫 번째 기여](project/opensource/first-commit.md)
+  * [github issue & pull request 템플릿 제작](project/opensource/github-issue-and-pull-request.md)
+  * [오픈소스 첫 번째 기여](project/opensource/first-commit.md)
 * [📄 기술제안](project/tech-proposal/README.md)
-  * [\[회고\] Github Action에서 Circle CI로 마이그레이션 제안](skill/devops/challenge/github-action-circle-ci.md)
+  * [Github Action에서 Circle CI로 마이그레이션 제안](skill/devops/challenge/github-action-circle-ci.md)
 
 ## Knowledge
 
@@ -45,6 +46,6 @@
 * [🦁 Likelion](edu/likelion.md)
 * [👫 SAGKorea 대구 경북 개발자 커뮤니티](edu/sagkorea.md)
 * [🏋 원티드 프리온보딩인턴십](edu/wanted-internship/README.md)
-  * [\[회고\] 사전과제](edu/wanted-internship/section-task.md)
-  * [\[회고\] 1차 기업과제](edu/wanted-internship/section-task-1.md)
-  * [\[회고\] 3차 기업과제](edu/wanted-internship/section-task-2.md)
+  * [사전과제](edu/wanted-internship/section-task.md)
+  * [1차 기업과제](edu/wanted-internship/task1.md)
+  * [3차 기업과제](edu/wanted-internship/task3.md)

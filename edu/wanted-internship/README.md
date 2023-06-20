@@ -47,6 +47,6 @@
 ### 프로젝트 회고
 
 * [x] [사전과제](section-task.md)
-* [x] [기업과제1](section-task-1.md)
+* [x] [기업과제1](task1.md)
 * [ ] ~~(기업과제2는 스킵되었다고 한다)~~
-* [x] [기업과제3](section-task-2.md)
+* [x] [기업과제3](task3.md)
