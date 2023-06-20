@@ -78,7 +78,7 @@ $ npx learn create {패키지 이름}
 
 
 
-Workspace의 의존성도 create로 추가할 수 있다.(scope 옵션으로 전역/특정 패키지 여부를 결정한다)
+Workspace의 의존성은 add로 추가할 수 있다.(scope 옵션으로 전역/특정 패키지 여부를 결정한다)
 
 > 의존성은 오픈 소스 라이브러리일 수도 있지만 내부 workspace일 수도 있다 말 그대로 의존성!
 
@@ -92,7 +92,9 @@ $ npx learn add {의존성 이름} --ignore-workspace-root-check
 
 
 
-### Learn Script
+### 추가 지원하는 Learn Script
+
+> 빌드 & 배포 & 테스트를 한 번에 해보자!
 
 Learn에서 지원하는 다양한 스크립트가 있지만 주로 쓰는 script만 우선 정리해본다!!
 
