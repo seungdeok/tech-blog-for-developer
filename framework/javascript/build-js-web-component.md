@@ -136,8 +136,7 @@ class App extends Component {
   template() {
     return `
       <div>
-        <div class="input-form-wrap"></div>
-        <div class="content-wrap"></div>
+        바닐라 JS 웹 컴포넌트 개발
       </div>
     `;
   }
@@ -159,21 +158,7 @@ import App from "./App.js";
 new App(document.querySelector(".App"), {});
 ```
 
-### Form
 
-### TodoList
-
-
-
-## 추가 작업 및 리팩토링.
-
-### API Client
-
-### Error Class
-
-### Dark Mode
-
-### Local Storage
 
 
 
